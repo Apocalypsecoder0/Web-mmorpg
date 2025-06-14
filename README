@@ -1,0 +1,39 @@
+TITLE: README
+Author: stephen deline jr "Apocalypsecode0"
+Description:
+This is a basic README file.  It provides a brief overview of the project.
+
+Usage:
+To use this project, follow these steps:
+1.  Install the necessary dependencies.
+2.  Configure the settings.
+3.  Run the main script.
+
+Contributing:
+If you would like to contribute to this project, please follow these guidelines:
+*   Fork the repository.
+*   Create a new branch.
+*   Make your changes.
+*   Submit a pull request.
+
+License:
+This project is licensed under the MIT License.
+
+# Realm Battles Game
+
+## Description
+Realm Battles is an online strategy game where players can engage in battles, manage resources, and develop their technologies. Players build units, upgrade technologies, and compete against other users in a vast universe.
+
+## Features
+- User registration and login system
+- Dynamic game mechanics with unit production and management
+- Technologies and upgrades
+- Real-time resource tracking 
+
+## Installation
+To run this project locally, clone the repository and run the PHP server:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
+   cd <repository-folder>
